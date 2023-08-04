@@ -35,5 +35,12 @@
       "rupee": 28,
       "id": 6
     }
-  ]
+  ],
+  "person":[ {
+    "type": "Income",
+    "category": "Salary",
+    "date": "2023-08-10",
+    "rupee": 28,
+    "id": 6
+  }]
 }
