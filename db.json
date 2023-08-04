@@ -1,46 +1,22 @@
 {
-  "users": [
+  "products": [
     {
-      "username": "ram",
-      "email": "ram@gmail.com",
-      "password": "ram@123",
-      "id": 1
-    },
-    {
-      "username": "ramji2",
-      "email": "ramji2@gmail.com",
-      "password": "ramji2@123",
+      "img": "https://i5.walmartimages.com/asr/cf013b18-d3a2-4bc2-9b69-d055035c6310_1.c2694981aefd0d1b7bd3e8546766398c.jpeg",
+      "name": "t-shirt",
+      "Description": "good one",
+      "Gender": "Female",
+      "Category": "Saree",
+      "Price": 6000,
       "id": 2
-    }
-  ],
-  "transactions": [
-    {
-      "type": "Income",
-      "category": "Refunds",
-      "date": "2023-08-04",
-      "rupee": 19,
-      "id": 4
     },
     {
-      "type": "Income",
-      "category": "Gifts",
-      "date": "2023-08-04",
-      "rupee": 27,
-      "id": 5
-    },
-    {
-      "type": "Income",
-      "category": "Salary",
-      "date": "2023-08-10",
-      "rupee": 28,
-      "id": 6
+      "img": "https://i5.walmartimages.com/asr/cf013b18-d3a2-4bc2-9b69-d055035c6310_1.c2694981aefd0d1b7bd3e8546766398c.jpeg",
+      "name": "shirt",
+      "Description": "good one22",
+      "Gender": "Male",
+      "Category": "Jeans",
+      "Price": 7000,
+      "id": 3
     }
-  ],
-  "person":[ {
-    "type": "Income",
-    "category": "Salary",
-    "date": "2023-08-10",
-    "rupee": 28,
-    "id": 6
-  }]
+  ]
 }
